@@ -11,7 +11,7 @@ The following word occurrences, which were wrong in source data, were fixed:
 
 *bous* (sent_id = Lucanus_Pharsalia_Liber_8,_Sentence_186 Perseus Collection = Liber 8, v. 365) pro *eoos* [The Latin Library](https://www.thelatinlibrary.com/lucan.html)
 
-*fades* (sent_id = Lucanus_Pharsalia_Liber_9,_sentence_416 Perseus Collection = Liber 9, v. 789) pro *facies* [The Latin Library] (https://www.thelatinlibrary.com/lucan.html) 
+*fades* (sent_id = Lucanus_Pharsalia_Liber_9,_sentence_416 Perseus Collection = Liber 9, v. 789) pro *facies* [The Latin Library](https://www.thelatinlibrary.com/lucan.html) 
 
 *haereus* (sent_id = Lucanus_Pharsalia_Liber_9,_sentence_255 Perseus Collection = Liber 9, v. 487) pro *haerens* [The Latin Library](https://www.thelatinlibrary.com/lucan.html)
 

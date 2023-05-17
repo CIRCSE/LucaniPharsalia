@@ -1,6 +1,6 @@
 # Lucani *Pharsalia*
 
-The *Pharsalia* is an epic poem in 10 books written by Lucan in 1st century AD. It portrays the civil war between Caesar and the Senate's forces, led by Pompey. The digital text of the 10 books of the Pharsalia by Lucan is taken from Perseus collection (http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.02.0133). The original text was lemmatized and PoS tagged with the UDPipe tool, using an in-house built trained model based on different UD Latin treebanks. The output of UDPipe was then checked manually at the CIRCSE Research Centre of the Università Cattolica del Sacro Cuore, Milan, Italy. The linking of the text to the Lemma Bank of the LiLa Knowledge Base was also performed at CIRCSE.
+The *Pharsalia* is an epic poem in 10 books written by Lucan in 1st century AD. It portrays the civil war between Caesar and the Senate's forces, led by Pompey. The digital text of the 10 books of the Pharsalia by Lucan is taken from [Perseus collection](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.02.0133). The original text was lemmatized and PoS tagged with the UDPipe tool, using an in-house built trained model based on different UD Latin treebanks. The output of UDPipe was then checked manually at the CIRCSE Research Centre of the Università Cattolica del Sacro Cuore, Milan, Italy. The linking of the text to the Lemma Bank of the LiLa Knowledge Base was also performed at CIRCSE.
 
 # Comments
 The following word occurrences, which were wrong in source data, were fixed:

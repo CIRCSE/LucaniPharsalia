@@ -7,7 +7,7 @@ The following word occurrences, which were wrong in source data, were fixed:
 
 *aretois* (sent_id = Lucanus_Pharsalia_Liber_1,_Sentence_93 Perseus Collection = Liber 1, v. 301) pro *arctois* [The Latin Library](https://www.thelatinlibrary.com/lucan.html) 
 
-*cirrigeros* (sent_id = Lucanus_Pharsalia_Liber1,_Sentence_150 Perseus Collection = Liber 1, v. 463) pro *crinigeros* ([Lucan (2009). Lucan: De bello ciuili: Book I. P. Roche (Ed.). Oxford: Oxford University Press. Oxford Scholarly Editions Online (2015). doi:10.1093/actrade/9780199556991.book.1 ]) 
+*cirrigeros* (sent_id = Lucanus_Pharsalia_Liber1,_Sentence_150 Perseus Collection = Liber 1, v. 463) pro *crinigeros* [The Latin Library](https://www.thelatinlibrary.com/lucan.html) 
 
 *bous* (sent_id = Lucanus_Pharsalia_Liber_8,_Sentence_186 Perseus Collection = Liber 8, v. 365) pro *eoos* [The Latin Library](https://www.thelatinlibrary.com/lucan.html)
 
@@ -24,6 +24,8 @@ The following word occurrences, which were wrong in source data, were fixed:
 *pracipites* (sent_id = Lucanus_Pharsalia_Liber_5,_sentence_377 Perseus Collection = Liber 5, v. 746) pro *praecipites* [The Latin Library](https://www.thelatinlibrary.com/lucan.html)
 
 *quarens* (sent_id = Lucanus_Pharsalia_Liber_9,_sentence_537 Perseus Collection = Liber 9, v. 1019) pro *quaerens* [The Latin Library](https://www.thelatinlibrary.com/lucan.html)
+
+*rhipaeasoue* (sent_id = Lucanus_Pharsalia_Liber2,_sentence_321 Perseus Collection = Liber 2, v. 640) pro *riphaeasque* [The Latin Library](https://www.thelatinlibrary.com/lucan.html)
 
 *suffciens* (sent_id = Lucanus_Pharsalia_Liber_2,_sentence_40 Perseus Collection = Liber 2, v. 88) pro *sufficiens* [The Latin Library](https://www.thelatinlibrary.com/lucan.html) 
 

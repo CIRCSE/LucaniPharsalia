@@ -19,6 +19,8 @@ The following word occurrences, which were wrong in source data, were fixed:
 
 *libyeus* (sent_id = Lucanus_Pharsalia_Liber_4,_sentence_302 Perseus Collection = Liber 4, v. 594) pro *libycis* [The Latin Library](https://www.thelatinlibrary.com/lucan.html) 
 
+*mandum* (sent_id = Lucanus_Pharsalia_Liber7_sentence-176 Perseus Collection = Liber 7, v. 352) pro *mundum* [The Latin Library](https://www.thelatinlibrary.com/lucan.html]
+
 *patiam* (sent_id = Lucanus_Pharsalia_Liber_5,_sentence_413 Perseus Collection = Liber 5, v. 802) pro *patriam* [The Latin Library](https://www.thelatinlibrary.com/lucan.html) 
 
 *pracipites* (sent_id = Lucanus_Pharsalia_Liber_5,_sentence_377 Perseus Collection = Liber 5, v. 746) pro *praecipites* [The Latin Library](https://www.thelatinlibrary.com/lucan.html)
